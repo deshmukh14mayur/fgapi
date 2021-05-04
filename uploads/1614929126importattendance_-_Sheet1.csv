@@ -1,0 +1,232 @@
+Employee Name,Employee No,Designation,Location,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,Present,Leave,Holiday,Absent,Off Day,Rest Day,On duty,Error,Status unknown,Total
+Abhishek Bhaskar Surase,WOTR519,Officer -Social,Baitul Chhindwara,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,P,A,A,A,P,A,OFF,A,A,A,A,A,OFF,OFF,2.0,0,0,20.0,6.0,0,0,0,0,28.0
+Abhishek Sharma,WOTR523,Product Manager,Pune,P,P,P,P,P,P,OFF,P,P,P,P,P,OFF,OFF,P,P,P,P,P,P,OFF,P,P,P,P,P,OFF,OFF,22.0,0,0,0,6.0,0,0,0,0,28.0
+Aditya Ramdas Shinde,WOTR417,Jr.Researcher-Water Resource & Hydrology,Pune,A,A,P,P,P,P,OFF,P,A,A,A,P,OFF,OFF,P,P,P,P,P,P,OFF,P,P,P,P,A,OFF,OFF,16.0,0,0,6.0,6.0,0,0,0,0,28.0
+Ajay Kumar Ekka,WOTR579,,Mumbai,A,A,A,A,A,A,OFF,A,A,A,P,P,OFF,OFF,P,P,P,P,P,P,OFF,P,P,A,A,A,OFF,OFF,10.0,0,0,12.0,6.0,0,0,0,0,28.0
+Akash Ambadas Sawant,WOTR500,Officer-Agronomist,Aurangabad-Bhokardan,P,P,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,P,OFF,A,A,P,A,A,OFF,OFF,4.0,0,0,18.0,6.0,0,0,0,0,28.0
+Akhilesh Kumar Bairagi,WOTR375,Assistant,Jabalpur,A,A,A,A,A,P,OFF,A,A,A,P,A,OFF,OFF,A,A,A,A,A,P,OFF,A,A,A,A,A,OFF,OFF,3.0,0,0,19.0,6.0,0,0,0,0,28.0
+Akhilesh Kumar Pandey,WOTR555,Asst.Manager,Jabalpur,P,P,P,P,A,A,OFF,P,P,P,A,A,OFF,OFF,A,A,P,A,A,A,OFF,P,P,P,P,A,OFF,OFF,12.0,0,0,10.0,6.0,0,0,0,0,28.0
+Akshay Vishwanath Suryawanshi,WOTR561,Agronomist,Aurangabad-Bajar Sawangi,P,P,A,P,A,P,OFF,A,A,P,A,A,OFF,OFF,A,A,P,A,A,A,OFF,P,P,P,A,A,OFF,OFF,9.0,0,0,13.0,6.0,0,0,0,0,28.0
+Alhat Kiran Babasheb,WOTR444,Sr.Assistant-Agronomist,Ahmednagar-Pathardi,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Amol Sanjay Chavan,WOTR551,Block Coordinator,Aurangabad-Bajar Sawangi,P,P,P,A,A,A,OFF,A,P,P,A,A,OFF,OFF,A,A,P,A,A,A,OFF,A,A,A,A,A,OFF,OFF,6.0,0,0,16.0,6.0,0,0,0,0,28.0
+Anand Kumar Ratkal,WOTR447,Assistant Manager,Sangamner,P,P,P,A,P,P,OFF,P,P,P,P,P,OFF,OFF,P,P,P,P,P,P,OFF,P,P,A,A,P,OFF,OFF,19.0,0,0,3.0,6.0,0,0,0,0,28.0
+Anant Sadashiv Kaldate,WOTR530,Sr.Officer,Aurangabad-Bhokardan,A,A,A,A,A,A,OFF,A,P,P,A,A,OFF,OFF,A,P,P,A,P,P,OFF,A,A,A,A,A,OFF,OFF,6.0,0,0,16.0,6.0,0,0,0,0,28.0
+Anil Ram,WOTR370,Assistant-Social,Khunti,A,A,A,A,A,A,OFF,A,A,A,P,A,OFF,OFF,P,A,A,P,P,P,OFF,A,A,A,A,A,OFF,OFF,5.0,0,0,17.0,6.0,0,0,0,0,28.0
+Anshuman Panda,WOTR448,Officer-Tech,Ganjam,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Arjuna Srinidhi,WOTR402,Manager,Pune,P,P,P,P,P,P,OFF,P,P,P,P,P,OFF,OFF,P,P,P,P,A,A,OFF,A,P,P:A,A,A,OFF,OFF,16.5,0,0,5.5,6.0,0,0,0,0,28.0
+Arpan Golechha,WOTR419,Researcher-(Socio Economics) KM,Pune,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Arun Dattatray Bhagat,WOTR527,Researcher,Pune,P,P,P,P,P:A,P,OFF,P,P,P,P,P,OFF,OFF,P,P,P,P,P,P,OFF,P,P,P,A,P,OFF,OFF,20.5,0,0,1.5,6.0,0,0,0,0,28.0
+Arun Kumar Santosh Kumar Khadanga,WOTR360,Sr.Officer,New Delhi,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,P:A,OFF,P,A,A,A,A,OFF,OFF,1.5,0,0,20.5,6.0,0,0,0,0,28.0
+Arun V. Dahale,WOTR415,Jr.Officer,Karauli,A,P,A,A,A,A,OFF,P,A,A,P,P,OFF,OFF,P,A,P,A,A,P,OFF,A,A,A,A,P,OFF,OFF,8.0,0,0,14.0,6.0,0,0,0,0,28.0
+Arvind Kumar Uikey,WOTR462,Officer(Technical),Kurrai Block Seoni,A,A,A,A,A,A,OFF,A,P,A,P,P,OFF,OFF,P,A,P,P,A,A,OFF,A,P,P,A,A,OFF,OFF,8.0,0,0,14.0,6.0,0,0,0,0,28.0
+Asif Alam Mazumder,WOTR497,Sr.Officer(Communication),Pune,P,P,P,P,P,P,OFF,P,P,P,P,P,OFF,OFF,P,P,P,P,P:A,A:P,OFF,P,P,P,P,P,OFF,OFF,21.0,0,0,1.0,6.0,0,0,0,0,28.0
+B.Venkataiah,WOTR475,Sr.Assistant - CO,ManchalIbrahimpatnam,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Bagde Shailesh Rajaram,WOTR520,Officer Technical,Seoni,A,A,P,P,A,A,OFF,A,A,P,A,A,OFF,OFF,P,A,P,P,A,A,OFF,A,P,P,A,A,OFF,OFF,8.0,0,0,14.0,6.0,0,0,0,0,28.0
+Banerjee Romit,WOTR052,Assistant Manager,MP-Harrai Chhindwara,A,A,A,A,A,A,OFF,A,A,P,P,P,OFF,OFF,A,A,A,A,A,A,OFF,P,A,P,A,A,OFF,OFF,5.0,0,0,17.0,6.0,0,0,0,0,28.0
+Bapte Sunil Prabhakar,WOTR005,Officer,Ahmednagar,P,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,1.0,0,0,21.0,6.0,0,0,0,0,28.0
+Barnabas Puran Prasad Mundu,WOTR321,Assistant,Khunti,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Berwal Gyanprakash,WOTR012,SDO,Pune,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Bhagwat Sunder Devidas,WOTR072,Asst. Manager-Accounts,Ahmednagar,A,A:P,P,P,P,P,OFF,P,P,P,P,P,OFF,OFF,A,P,P,P,P,P,OFF,P,A,P,P,P,OFF,OFF,18.5,0,0,3.5,6.0,0,0,0,0,28.0
+Bhakti Deepak Harchekar,WOTR567,,Pune,P,P,P,P,P,P,OFF,P,P,P,P,P,OFF,OFF,P,P,P,P,P,P,OFF,P,P,P,P,P,OFF,OFF,22.0,0,0,0,6.0,0,0,0,0,28.0
+Bhangare Balu Nivruti,WOTR176,Sr.Assistant,Karauli,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,P,A,A,A,OFF,A,A,A,P,A,OFF,OFF,2.0,0,0,20.0,6.0,0,0,0,0,28.0
+Bhangare Balu Soma,WOTR069,Sr.Assistant,Sangamner,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Bhangre Rekha,WOTR509,Sr.Assitant Social,Damoh,A,A,A,A,A,P,OFF,A,A,P,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,2.0,0,0,20.0,6.0,0,0,0,0,28.0
+Bhingardive Sushama Milind,WOTR006,Sr. Officer-HR &Admin,Ambad,P,P,P,P,P,A,OFF,P,P,P,P,P:CL,OFF,OFF,P,P,P,P,P,P,OFF,P,P,P,P,P,OFF,OFF,20.5,0,0,1.0,6.0,0,0,0,0,27.5
+Bipin Dilip Gurujee,WOTR583,,Mumbai,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Bramha Das Bairagi,WOTR372,Assistant,Baitul Chhindwara,A,A,A,A,A,A,OFF,A,A,P,P,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A:P,A,A,A,OFF,OFF,2.5,0,0,19.5,6.0,0,0,0,0,28.0
+Brij Mohan Dixit,WOTR584,,Jabalpur,,,,,,,,,,,,,,,,,,,,,,,A,A,A,A,OFF,OFF,0,0,0,4.0,2.0,0,0,0,0,6.0
+Chaudhari Chandrashekhar Ashokrao,WOTR471,Sr.Assistant - Social,Ahmednagar Parner,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,P,P,A,OFF,OFF,2.0,0,0,20.0,6.0,0,0,0,0,28.0
+Chaudhari Santosh Valhuji,WOTR180,Sr.Tech Officer,Ahmednagar Bhalavani,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,P,OFF,P,P:A,A,A,A,OFF,OFF,2.5,0,0,19.5,6.0,0,0,0,0,28.0
+Chavan Dattatraya Shivnath,WOTR002,Officer-Admin,Ahmednagar,P,P,P,P,P,P,OFF,P,P,P,P,P,OFF,OFF,P,A,P,P,P,P,OFF,A,P,P,P,P,OFF,OFF,20.0,0,0,2.0,6.0,0,0,0,0,28.0
+Chemburkar Sarita Deepak,WOTR428,Jr.Researcher-Water Resource & Hydrology,Pune,P,P:A,P:A,A,P,A:P,OFF,P,P,P,P,P,OFF,OFF,A:P,P,P,P,P,A:P,OFF,A,A,A,A,A,OFF,OFF,13.5,0,0,8.5,6.0,0,0,0,0,28.0
+Chetan Tryambak Pote,WOTR576,,Mumbai,P,P,A,A,A,A,OFF,A:P,P,A:P,P,P,OFF,OFF,P,P,P,P,P,P,OFF,P,P,P,A,P,OFF,OFF,16.0,0,0,6.0,6.0,0,0,0,0,28.0
+Chindhe Subhash Shankarrao,WOTR442,Field Officer-Technical,Sangamner,P,P:A,P:A,P,A,P:A,OFF,A,P,P,P,P,OFF,OFF,A,P,A,P,P,A,OFF,A,P,P,P,A,OFF,OFF,13.5,0,0,8.5,6.0,0,0,0,0,28.0
+Chippe Anil Kumar,WOTR407,Assistant,Manchal Ibrahimpatnam,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,P,OFF,OFF,1.0,0,0,21.0,6.0,0,0,0,0,28.0
+Chiti Gupta,WOTR484,Sr.Researcher,Jabalpur,P,P,P,P,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,4.0,0,0,18.0,6.0,0,0,0,0,28.0
+Crispino Lobo,WOTR369,Managing Trustee,Pune,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+DSouza Marcella,WOTR271,Director & Head of W-CReS,Pimpalner,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Dada Rajaram Dadas,WOTR534,Researcher,Pune,P,P,P,P,P,P,OFF,P,P,P,P,P,OFF,OFF,P,P,P,P,P,A,OFF,P,P:A,P,P,P,OFF,OFF,20.5,0,0,1.5,6.0,0,0,0,0,28.0
+Dangode Sopan Ramrao,WOTR262,Social,Aurangabad-Jamkhed,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Dangwar Sujaya,WOTR044,Asstt Manager,Khunti,A,A,A,A,P,P,OFF,P,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,3.0,0,0,19.0,6.0,0,0,0,0,28.0
+Daware Harish Laxmikantrao,WOTR046,General Manager,Ahmednagar,P,P:A,P:A,P,P,P,OFF,P,A,A,A,A,OFF,OFF,P,P,A,A,P,P,OFF,P,P,P,P,P,OFF,OFF,15.0,0,0,7.0,6.0,0,0,0,0,28.0
+Deepak Kumar Dadua Meshram,WOTR296,Sr. Tech Officer,Baitul Chhindwara,A,P,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,1.0,0,0,21.0,6.0,0,0,0,0,28.0
+Deepak Pal,WOTR495,Officer-Agronomist,Baitul Chhindwara,P:A,P,P,P,P,A,OFF,P,P,A,A,P,OFF,OFF,A,A,A,A,P,P,OFF,P,A,P,P,P,OFF,OFF,13.5,0,0,8.5,6.0,0,0,0,0,28.0
+Devendra Bairagi,WOTR373,Assistant,Chhattisgarh-Baikunthpur Koriya Dist,P,P,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,P,P,OFF,P,A,A,A,A,OFF,OFF,5.0,0,0,17.0,6.0,0,0,0,0,28.0
+Devendra Kumar Kurrey,WOTR596,,Pali Korba Chhattisgarh,,,,,,,,,,A,P,P,,OFF,P,P,P,P,P,P,OFF,P,P,P,A,A,OFF,OFF,11.0,0,0,3.0,4.0,0,0,0,0,18.0
+Devendra Kumar Vishwakarma,WOTR485,Sr.Assitant-Accounts,Jabalpur,P,P,P,P,P,P,OFF,A:P,P,P,P,P,OFF,OFF,A,A,P,P,P,P,OFF,P,P,P,A,A,OFF,OFF,17.5,0,0,4.5,6.0,0,0,0,0,28.0
+Divyani Sanjay Zawar,WOTR473,Sr.Accountant,Ahmednagar,A:P,A:P,A:P,A:P,A:P,A:P,OFF,A:P,A:P,A:P,A:P,A:P,OFF,OFF,A:P,A:P,A:P,A:P,A:P,A:P,OFF,A:P,A:P,A:P,A:P,A:P,OFF,OFF,11.0,0,0,11.0,6.0,0,0,0,0,28.0
+Dnyaneshwar Kailas Ade,WOTR581,,Mumbai,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Dound Pravin Balasaheb,WOTR306,Community Organiser,Ahmednagar Parner,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Duldhar Mohan,WOTR083,Sr.Officer,Pune,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+E.Srinivas Reddy,WOTR476,Sr.Assistant - CO,Narayanpeth,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,P,OFF,OFF,1.0,0,0,21.0,6.0,0,0,0,0,28.0
+Gaikwa Preetilata,WOTR127,Dy.Manager,Pune,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Gaikwad Nita Shivaji,WOTR230,Assistant,Ahmednagar-Pathardi,A,A,A,P,P,A,OFF,A,P,A,A,A,OFF,OFF,A,A,A,A,A,P,OFF,A,P,A,A,A,OFF,OFF,5.0,0,0,17.0,6.0,0,0,0,0,28.0
+Gaikwad Prithviraj Jaykar,WOTR205,Sr.Officer-Research-Agromomy,Pune,A,A,A,A,A,A,OFF,A,A,P,A,P,OFF,OFF,P,P,P,A,P,P,OFF,P,P:A,P,P,A,OFF,OFF,10.5,0,0,11.5,6.0,0,0,0,0,28.0
+Gaikwad Sandip Sakhahari,WOTR240,FieldOfficer,Ahmednagar-Pathardi,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Gajul Shriniwas Estari,WOTR368,Office Assistant,Ahmednagar,P,P,P,P,P,P,OFF,P,P,A,P,P,OFF,OFF,P,P,P,P,P,P,OFF,P,A,A,P,A,OFF,OFF,18.0,0,0,4.0,6.0,0,0,0,0,28.0
+Ganesh Eknathrao Shinde,WOTR479,Jr.Officer,Ahmednagar Parner,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Garje Abhijeet Subhash,WOTR445,Sr.Assistant-Agronomist,Gunupur,P,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,P,OFF,A,A,A,A,A,OFF,OFF,2.0,0,0,20.0,6.0,0,0,0,0,28.0
+Gautami Shriniwas Ghan,WOTR586,,Mumbai,P,P,P,P,A:P,P,OFF,P,P,P,P,P,OFF,OFF,P,P,A,P,P,P,OFF,P,P,P,P,P,OFF,OFF,20.5,0,0,1.5,6.0,0,0,0,0,28.0
+Ghaymukte Sagar Balasaheb,WOTR451,Field Officer Technical,Aurangabad-Bhokardan,A,A,P,A,A,A,OFF,A,A,P,P,P,OFF,OFF,A,A,A,A,A,P,OFF,A,P,A,A,A,OFF,OFF,6.0,0,0,16.0,6.0,0,0,0,0,28.0
+Gholkar Madhav Dwarkanath,WOTR340,Manager- Researcher(Agriculture & Engi),Pune,P,P,P,P,P,P,OFF,P,P,P,P,A,OFF,OFF,P,P,P,P,P,P,OFF,P,P:A,P,P,A,OFF,OFF,19.5,0,0,2.5,6.0,0,0,0,0,28.0
+Gite Kantilal Bhimraj,WOTR153,Sr. Tech. Officer,Osmanabad,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,P,A,A,OFF,A,A,P,A,A,OFF,OFF,2.0,0,0,20.0,6.0,0,0,0,0,28.0
+Gondhali Bajeerav Bhauso,WOTR493,Officer-Agronomist,Ahmednagar Bhalavani,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Gosavi Somnath Radhakisan,WOTR174,Sr.Assistant,Aurangabad-Jafrabad,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Hansika Kumari,WOTR559,Officer Social,Jharkhand-Chaipurst,A,A,A,P,P,P,OFF,A,A,P,A,A,OFF,OFF,A,A,P,A,A,A,OFF,P,A,A,A,A,OFF,OFF,6.0,0,0,16.0,6.0,0,0,0,0,28.0
+Haraprasad Roul,WOTR459,Officer Technical,Ganjam,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Hemant Kumar Shiv Prakash Garg,WOTR241,Sr. Technical Officer,MP-Gopalganj Seoni,A,A,A,A,A,A,OFF,A,A,P,P,A,OFF,OFF,P,A,A,P,A,P,OFF,A,A,P,A,A,OFF,OFF,6.0,0,0,16.0,6.0,0,0,0,0,28.0
+Hirve Rupesh Nilkanth,WOTR259,Technical Officer,Aurangabad-Ambad,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Hiwale Anil Shrirangrao,WOTR030,SDO,Aurangabad-Bhokardan,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,P,P,OFF,A,A,A,A,A,OFF,OFF,2.0,0,0,20.0,6.0,0,0,0,0,28.0
+Hiwale Gajanan Motiram,WOTR289,SDO,Aurangabad-Jamkhed,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Ighe Navnath S.,WOTR139,Sr.Assistant,Ahmednagar Parner,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Jadhav Ajit Sukhdev,WOTR305,Jr.Researcher (RS-GIS),Pune,P,P,P:A,P,P:A,P,OFF,A:P,P,P,P,P:A,OFF,OFF,P:A,P,P,P,P,P,OFF,P,P,P,P,P,OFF,OFF,19.5,0,0,2.5,6.0,0,0,0,0,28.0
+Jadhav Sandip Ganpati,WOTR248,Director,Pune,P,P,P,P,P,P,OFF,P,P,P,A,A,OFF,OFF,P,P,A,A,A,P,OFF,P,P,P,P,P,OFF,OFF,17.0,0,0,5.0,6.0,0,0,0,0,28.0
+Jadhav Vikas Sunilrao,WOTR468,Officer -Technical,Ahmednagar-Pathardi,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Jagdish Chandra Das,WOTR433,Officer (Accounts),Ganjam,A:P,P,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A:P,P,A,A,P,OFF,P,A,A,P,A,OFF,OFF,6.0,0,0,16.0,6.0,0,0,0,0,28.0
+Jagtap Vilash Munja,WOTR456,Assistant-Social,Aurangabad-Ambad,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Jalandhar Parida,WOTR458,Officer-Livelihood Expert,Gunupur,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Jatav Yogendra Prasad,WOTR022,Sr.Tech Officer,Baitul Chhindwara,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,P,A,A,OFF,OFF,1.0,0,0,21.0,6.0,0,0,0,0,28.0
+Jitendra Kumar Rai,WOTR558,Sr.Officer-Social,Chaipur,A,A,A,A,A,A,OFF,A,A,P,A,P,OFF,OFF,A,A:P,P,A,A,A,OFF,P,A,A,A,A,OFF,OFF,4.5,0,0,17.5,6.0,0,0,0,0,28.0
+Jivan Vasantrao Nagre,WOTR554,Agronomist,Aurangabad-Bajar Sawangi,P,P,P,A,A,P,OFF,A,A,P,A,A,OFF,OFF,A,A,P,A,A,A,OFF,P,A,P,A,A,OFF,OFF,8.0,0,0,14.0,6.0,0,0,0,0,28.0
+Jogdande Pravin Ashok,WOTR280,Sr.Assistant (Community Org),Aurangabad-Bhokardan,A,A,A,A,P,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,1.0,0,0,21.0,6.0,0,0,0,0,28.0
+Jori Lomeshwar Bhaskar,WOTR038,Sr. Tech Officer,Ahmednagar Parner,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,P,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,1.0,0,0,21.0,6.0,0,0,0,0,28.0
+Jyothirmayee Kandula,WOTR403,Officer,Budhera,P,P,P,A,A,A,OFF,P,P,P,P,P,OFF,OFF,P,P,P,P,P,P:A,OFF,P,P,P,A,P,OFF,OFF,17.5,0,0,4.5,6.0,0,0,0,0,28.0
+Kabadi Ganpat Chabu,WOTR007,Asst. Manager-Social,Aurangabad,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,P,P,A,OFF,P,P,P,A,A,OFF,OFF,5.0,0,0,17.0,6.0,0,0,0,0,28.0
+Kadam Satish Hanuman,WOTR320,Tech Officer,Aurangabad-Jafrabad,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Kailash Chandrabel,WOTR587,,Mumbai,P,A,P,A,P,A,OFF,A,P,A,P,A,OFF,OFF,A,A,P,A,P,A,OFF,A,A,A,A,A,OFF,OFF,7.0,0,0,15.0,6.0,0,0,0,0,28.0
+Kakade Ganesh Dattatrey,WOTR119,Officer -Agromat Supervisor,Sangamner,P,A,A,A,A,P,OFF,P,A,P,A,A,OFF,OFF,A,P,P,P,A,P,OFF,P,A,A,A,P,OFF,OFF,10.0,0,0,12.0,6.0,0,0,0,0,28.0
+Kalaskar Prashant Dashrath,WOTR125,Asst Manager,Sangamner,P,A,P,A,P,A,OFF,A,A,A,A,P,OFF,OFF,P,P,A,P,P,P,OFF,P,A,A,A,A,OFF,OFF,10.0,0,0,12.0,6.0,0,0,0,0,28.0
+Kale Eshwer Bhimrao,WOTR341,Dy.Manager-Research,Pune,A,A,A,A,P:A,A,OFF,P:A,A,P:A,P,P:A,OFF,OFF,P,P,P:A,P,P,P,OFF,A,P,P:A,P,P:A,OFF,OFF,11.5,0,0,10.5,6.0,0,0,0,0,28.0
+Kamble Sonali Balasaheb,WOTR281,Officer-IT,Pune,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Kamlakar Bhivaji Raibole,WOTR550,Project Manager,Aurangabad-Bajar Sawangi,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Kartick Chandra Sahu,WOTR486,Officer-Agronomist,Khunti,A,A,A,A,P,A,OFF,A,A,A,A,P,OFF,OFF,A,A,A,A,A,A,OFF,A,P,A,A,A,OFF,OFF,3.0,0,0,19.0,6.0,0,0,0,0,28.0
+Kasturibala Muralidhar Samal,WOTR501,Officer-Social,Gunupur,A,P,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,1.0,0,0,21.0,6.0,0,0,0,0,28.0
+Kavthekar Abhijeet Prakash,WOTR136,Dy.Manager,Aurangabad,P,P,A,A,A,P,OFF,A,P,A,A,A,OFF,OFF,P,A,P,P,A,P,OFF,A,P,P,A,A,OFF,OFF,10.0,0,0,12.0,6.0,0,0,0,0,28.0
+Kavthekar Aparna Abhijeet,WOTR277,Sr.Officer-Health & Gender,Aurangabad,A,A,A,A,A,P,OFF,A,A,A,P,A,OFF,OFF,A,A,P,A,A,P,OFF,A,A,P,A,A,OFF,OFF,5.0,0,0,17.0,6.0,0,0,0,0,28.0
+Kedari Sujit David,WOTR073,Officer-Accounts,Ahmednagar,P,P,P,P,P,A,OFF,P,P,P,A:P,A,OFF,OFF,P,P,A,P:A,P,P,OFF,P,P,A,P,P,OFF,OFF,17.0,0,0,5.0,6.0,0,0,0,0,28.0
+Keskar Prakash Pandurang,WOTR049,Executive Director,Pune,P,A,P,P,P,P,OFF,P,P,P,P,A,OFF,OFF,P,A,P,P,A,P,OFF,P,P,P,P,A,OFF,OFF,17.0,0,0,5.0,6.0,0,0,0,0,28.0
+Khade Harshal,WOTR173,Officer-C&D,Pune,A,A,A,A,A,A,OFF,A,P,P,P,P,OFF,OFF,P,P,P,P,P,P,OFF,P,P,P,P,P,OFF,OFF,15.0,0,0,7.0,6.0,0,0,0,0,28.0
+Khandare Vijay Sukhlal,WOTR027,Sr Assistant,Aurangabad-Bhokardan,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,P,A,OFF,OFF,1.0,0,0,21.0,6.0,0,0,0,0,28.0
+Kishan Devaram Meesala,WOTR577,,Mumbai,A,P,P,A,A,A,OFF,P,P,A,P,A,OFF,OFF,A,P,A,P,P,A,OFF,P,P,A,P,P,OFF,OFF,12.0,0,0,10.0,6.0,0,0,0,0,28.0
+Kishor Ramesh Karad,WOTR463,Officer(Technical),Aurangabad-Jamkhed,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Kishor Sonune,WOTR436,Officer-Agronomist,Aurangabad-Ambad,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Krishna Kamalnath Nagre,WOTR525,"Sr.Officer (Software Engg,Android)",Pune,A,P,P,P,P,P,OFF,P,P,P,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,8.0,0,0,14.0,6.0,0,0,0,0,28.0
+Krishna Narayan Moola,WOTR546,Officer-Social,Hyderabad,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,P,A,A,OFF,OFF,1.0,0,0,21.0,6.0,0,0,0,0,28.0
+Krushna Janardhan Khendke,WOTR518,Officer -Social,Baitul Chhindwara,A,A,A,A,P,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,1.0,0,0,21.0,6.0,0,0,0,0,28.0
+Kshetre Rajesh Shantwan,WOTR425,Jr. Officer -Agronomist,Aurangabad-Jamkhed,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Kumbhar Nitin Mukund,WOTR299,Researcher (Agronomy) -KM,Pune,A,A,P,P:A,P:A,A,OFF,A,P:A,P,P:A,P,OFF,OFF,P,P,A,P:A,P,P,OFF,P,P,A,P,A,OFF,OFF,12.5,0,0,9.5,6.0,0,0,0,0,28.0
+Lalit Kumar Amar Lal Nirmalkar,WOTR327,Officer Geologist,Chhattisgarh-Baikunthpur Koriya Dist,A,P,P,A,A,P,OFF,A,A,A,P,A,OFF,OFF,A,A,P,A,A,A,OFF,A,A,A,A,A,OFF,OFF,5.0,0,0,17.0,6.0,0,0,0,0,28.0
+Lata Mangeshwari Krishna Kumar Bairagi,WOTR315,Sr.Assistant,Damoh,A,P,P,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,2.0,0,0,20.0,6.0,0,0,0,0,28.0
+Lokhande Ankush Bharat,WOTR503,Sr. Assistant -Social,Aurangabad-Jamkhed,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+M. Ravi Prasad,WOTR411,Technical Officer,Narayanpeth,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,P,A,A,P,P,OFF,P,P,P,P,P,OFF,OFF,8.0,0,0,14.0,6.0,0,0,0,0,28.0
+M.Chennaiah,WOTR303,Tech.Assistant,Narayanpeth,A,A,A,P,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,P,OFF,OFF,2.0,0,0,20.0,6.0,0,0,0,0,28.0
+Mahendra Kumar Mahawar,WOTR580,,Mumbai,A,A,A,A,A,A,OFF,A,A,A,P,A,OFF,OFF,P,P,A,P,A,A,OFF,A,A,A,P,A,OFF,OFF,5.0,0,0,17.0,6.0,0,0,0,0,28.0
+Mahendra Rathore,WOTR564,Officer Technical,Chhattisgarh-Baikunthpur Koriya Dist,A,A,A,A,A,A,OFF,A,A,P,P,A,OFF,OFF,A,A,P,A,A,P,OFF,A,A,P,A,A,OFF,OFF,5.0,0,0,17.0,6.0,0,0,0,0,28.0
+Mayur Harishchandra Deshmukh,WOTR600,"Sr.Officer (Software Engg,Android)",Pune,,,,,,,,,,,,,,,,,,P,P,P,OFF,P,P,P,P,P,OFF,OFF,8.0,0,0,0,3.0,0,0,0,0,11.0
+Mayurkumar Deshmukh,WOTR490,Junior Researcher (Social),Pune,A,A,P,A,A,A,OFF,A,P,P,P,P,OFF,OFF,P,P,P,P,P,P,OFF,P,P,P,P,A,OFF,OFF,15.0,0,0,7.0,6.0,0,0,0,0,28.0
+Md Iqbal Ansari,WOTR590,,Jharkhand Khunti,,,,,,,,,,,A,P,,,,,,A,P,,OFF,A,A,A,A,A,OFF,OFF,2.0,0,0,7.0,3.0,0,0,0,0,12.0
+Md. Moijuddin Ansari,WOTR582,Dy. General Manager- Fund Raising,Delhi,P,P,P,P,P,P,OFF,P,P,P,P,P,OFF,OFF,P,P,P,P,P,P,OFF,P,P,P,P,A,OFF,OFF,21.0,0,0,1.0,6.0,0,0,0,0,28.0
+Md.Taufique Warsi,WOTR595,,Pune,,,,,,,,,,,,,,,,,,,,,,P,P,P,P,P,OFF,OFF,5.0,0,0,0,2.0,0,0,0,0,7.0
+Modhave Komal Shivaji,WOTR440,Jr Researcher- Meteorology,Ahmednagar,P,P,P,P,P,P,OFF,P,P,P,P,P,OFF,OFF,P,P,P,P,A,P,OFF,A,P,P,A,A,OFF,OFF,18.0,0,0,4.0,6.0,0,0,0,0,28.0
+More Aakash Babanrao,WOTR457,Officer - IT,Pune,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+More Shankar Kishanrao,WOTR358,Tech.Officer,Pune,P,P,A,P,A,A,OFF,P,A,P,P,P,OFF,OFF,A,P,A,P,P,A,OFF,A,P,P,P,P,OFF,OFF,14.0,0,0,8.0,6.0,0,0,0,0,28.0
+Mritunjay Dhananjay Mahato,WOTR560,Officer-Technical,Chaipur,P,P,P,P,P,A,OFF,A,A,P,A,P,OFF,OFF,A,P,P,P,P,P,OFF,A,A,A,A,A,OFF,OFF,12.0,0,0,10.0,6.0,0,0,0,0,28.0
+Myakal Ambadas Narayan,WOTR004,Officer-Accounts,Ahmednagar,P,P,P,P:A,P,P,OFF,P,A,P,P,P,OFF,OFF,L,A,P,P,CL,P,OFF,P,P,P,P,P,OFF,OFF,17.5,2.0,0,2.5,6.0,0,0,0,0,28.0
+Nagnathwar Rupesh Sudhakar,WOTR450,Officer Technical,Aurangabad-Jafrabad,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Navthar Rohidas Bhagchand,WOTR553,Block Coordinator,Aurangabad-Bajar Sawangi,P,P,P,A,P,A,OFF,A,P,P,A,A,OFF,OFF,A,A,P,A,P,P,OFF,A,A,P,P,A,OFF,OFF,11.0,0,0,11.0,6.0,0,0,0,0,28.0
+Nikam Nikhil Santosh,WOTR426,Jr.Researcher-KM,Pune,P,P,P:A,A,A:P,P,OFF,A,P,P,P,P,OFF,OFF,P,P,A:P,P,P,P,OFF,P,P,P,P,A,OFF,OFF,17.5,0,0,4.5,6.0,0,0,0,0,28.0
+Nisha Bari Parnami,WOTR472,Sr.Officer (WE),Jabalpur,A,A,P,P,A,A,OFF,P,A,P,P,P,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,6.0,0,0,16.0,6.0,0,0,0,0,28.0
+Nitin Kailas Pote,WOTR461,Officer(Technical),Osmanabad,A,A,A,A,P,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,P,A,A,A,A,OFF,OFF,2.0,0,0,20.0,6.0,0,0,0,0,28.0
+Ohal Karlos Andres,WOTR135,Driver Cum Mechanic,Pune,A,A,A,A,P,P,OFF,A,P,A,P,P,OFF,OFF,P,P,P,A,A,A,OFF,A,A,P,A,P,OFF,OFF,10.0,0,0,12.0,6.0,0,0,0,0,28.0
+Ohol Suhas Babasaheb,WOTR062,Sr.Assistant,Aurangabad-Bhokardan,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Pacharane Navnath Gangadhar,WOTR152,Asst. Manager,Ahmednagar-Pathardi,P,A,A,A,A,P,OFF,P,P,P,A,P,OFF,OFF,P,P,P,A,P,P,OFF,A,P,A,A,A,OFF,OFF,12.0,0,0,10.0,6.0,0,0,0,0,28.0
+Padulkar Shyam Devidas,WOTR008,Dy. Manager -Tech,Aurangabad,A,A,A,A,A,A,OFF,A,A,A,P,A,OFF,OFF,P,P,A,A,P,P,OFF,P,A,P,A,A,OFF,OFF,7.0,0,0,15.0,6.0,0,0,0,0,28.0
+Pallavi Pradip Kulkarni,WOTR594,Sr.Officer-Researcher-Social Sci & CCA),Pune,,,,,,,,,,,P,P,,,,,P,P,P,P,OFF,P,P,P,P,A,OFF,OFF,10.0,0,0,1.0,3.0,0,0,0,0,14.0
+Pannalal Singrooure,WOTR376,Field Officer,Seoni,P,A,A,A,A,A,OFF,A,P,A,A,P,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,3.0,0,0,19.0,6.0,0,0,0,0,28.0
+Parmeshwar Kumar Sahu,WOTR597,,Chhattisgarh PandariyaKawardha,,,,,,,,,,A,P,,,,A,P,P,,,,OFF,P,P,A,A,A,OFF,OFF,5.0,0,0,5.0,3.0,0,0,0,0,13.0
+Partho Nandan,WOTR591,Field Officer Technical,Jharkhand-Chaipurst,,,,,,,,,,,,,,,,,A,P,P,P,OFF,A,A,A,A,A,OFF,OFF,3.0,0,0,6.0,3.0,0,0,0,0,12.0
+Patekar Vandana Joseph,WOTR154,Dy. Manager -WEP,Aurangabad,P,P,A,P,A,A,OFF,P,A,A,A,P,OFF,OFF,P,A,P,A,P,P,OFF,P,P,P,P,A,OFF,OFF,13.0,0,0,9.0,6.0,0,0,0,0,28.0
+Patel Ashish Kumar,WOTR020,Sr. Officer,Dindori-Anuppur,A,P,A,A,A,A,OFF,A,A,P,A,P,OFF,OFF,P,A,P,A,P,A,OFF,A,A,P,A,A,OFF,OFF,7.0,0,0,15.0,6.0,0,0,0,0,28.0
+Patel Vardhan,WOTR410,Assistant,Telangana-Narayanpeth,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,P,OFF,OFF,1.0,0,0,21.0,6.0,0,0,0,0,28.0
+Pathan Samina Jamadar,WOTR319,Sr. Assistant,Osmanabad,P,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,1.0,0,0,21.0,6.0,0,0,0,0,28.0
+Patil Vijay Vasant,WOTR287,Tech. Officer,Aurangabad-Bhokardan,A,A,A,A,A,A,OFF,A,A,P,P,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,2.0,0,0,20.0,6.0,0,0,0,0,28.0
+Patole Siddharth Eknath,WOTR556,Assistant (Driver cum Mechanic),Aurangabad,P,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,P,A,A,A,A,A,OFF,A,A,P,A,A,OFF,OFF,3.0,0,0,19.0,6.0,0,0,0,0,28.0
+Pawar Janardhan Rakhama,WOTR132,General Manager,Aurangabad,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Phad Sahebrao Shankar,WOTR064,Sr.Assistant,Ahmednagar Bhalavani,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,P,P,OFF,OFF,2.0,0,0,20.0,6.0,0,0,0,0,28.0
+Phadtare Anuradha,WOTR076,Sr.Officer -Researcher-Social Sci & CCA,Pune,A,A,A,A,A:P,A,OFF,A,A,A:P,P,P,OFF,OFF,A,A,P,P,P,P,OFF,A:P,P:A,P,P,A,OFF,OFF,10.0,0,0,12.0,6.0,0,0,0,0,28.0
+Pooja Vivek Ayachit,WOTR585,,Mumbai,P,P,P,P,P,P,OFF,P,P,P,P,P,OFF,OFF,A,A,A,A,A,A,OFF,A,A,P,P,P,OFF,OFF,14.0,0,0,8.0,6.0,0,0,0,0,28.0
+Pothuganti Kistaiah,WOTR412,Field Officer,Sangamner,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Prabha Shanker Sharma,WOTR529,Officer Social,Karauli,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Pradeep Dehariya,WOTR516,Agronomist,MP-Harrai Chhindwara,A,P,A,P,A,A,OFF,P,A,P,A,P,OFF,OFF,A,P,A,P,A,A,OFF,A,P,A,A,A,OFF,OFF,8.0,0,0,14.0,6.0,0,0,0,0,28.0
+Pradeep Kumar Ramesh Bathri,WOTR507,Officer-Agronomist,Mandla,A,P,A,P,A,A,OFF,A,A,A,P,A,OFF,OFF,A,A,P,A,A,A,OFF,A,A,P,A,A,OFF,OFF,5.0,0,0,17.0,6.0,0,0,0,0,28.0
+Pradeep Kumar Shrivas,WOTR521,Officer -Social,Kurrai Block Seoni,A,A,A,A,A,A,OFF,A,A,A,A,P:A,OFF,OFF,P:A,A,A,A,A,A:P,OFF,A,A,A,A,A,OFF,OFF,1.5,0,0,20.5,6.0,0,0,0,0,28.0
+Pratiksha Ashish Sonkusare,WOTR532,Officer (UI/UX developer),Pune,P,P,A,P,P:A,P:A,OFF,P,P,P,P,A:P,OFF,OFF,P,P,P,P,P:A,A,OFF,A:P,A:P,A,A,A,OFF,OFF,14.0,0,0,8.0,6.0,0,0,0,0,28.0
+Priya Sinha,WOTR539,Research Assistant (GIS-RS),Pune,P,P,P,P:A,P,P,OFF,P,P,P,P,P:A,OFF,OFF,P,P,P,A,P,P,OFF,P,P:A,P,P:A,A,OFF,OFF,18.0,0,0,4.0,6.0,0,0,0,0,28.0
+Rajapure Ganesh Y,WOTR128,Asst. General Manager (Social),Ahmednagar,A,A,P,A,P,A,OFF,A,A,A,A,A,OFF,OFF,P:A,A,A,A,A,P,OFF,A,A,P:A,A,A,OFF,OFF,4.0,0,0,18.0,6.0,0,0,0,0,28.0
+Rajesh Kumar Mohan Das Bairagi,WOTR316,Sr.Assistant,Seoni,A,A,A,P,A,A,OFF,A,P,A,A,A,OFF,OFF,P,A,A,P,P,P,OFF,P,P,A,A,A,OFF,OFF,8.0,0,0,14.0,6.0,0,0,0,0,28.0
+Rathod Govinda Genu,WOTR443,Sr.Assitant-Accounts,Ahmednagar,P,P,P,P,P,A,OFF,P,P,P,P,P,OFF,OFF,P,P,A,P,P,P:A,OFF,A,A,P,P:A,A,OFF,OFF,16.0,0,0,6.0,6.0,0,0,0,0,28.0
+Ratnakar Laxmanrao Shejul,WOTR552,WS Expert,Aurangabad-Bajar Sawangi,A,P,P,A,A,A,OFF,A,P,A,A,A,OFF,OFF,A,A,P,P,A,A,OFF,P,A,P,A,A,OFF,OFF,7.0,0,0,15.0,6.0,0,0,0,0,28.0
+Rishu Garg,WOTR454,Dy.Director,Tendukheda Block Damoh,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Sachin Shrikant Adhe,WOTR533,Jr off(Agril.),Pune,P,P,A,P,P:A,P,OFF,P,P,P,P,P,OFF,OFF,P,P,P,P,P,P,OFF,P,P:A,P,P,P:A,OFF,OFF,19.5,0,0,2.5,6.0,0,0,0,0,28.0
+Sahane Ravindra Ramesh,WOTR466,Sr.Assistant (Agronomist),Aurangabad-Bhokardan,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Salvi Vandana Ashok,WOTR109,Sr. Officer - Admin & Support,Pune,P,P,P,P,P,P,OFF,P,P,P,P,P,OFF,OFF,P,P,P,P,P,A,OFF,P,P,P,P,P,OFF,OFF,21.0,0,0,1.0,6.0,0,0,0,0,28.0
+Sameer Jafar Sayyad,WOTR481,Jr.Research Assitant,Aurangabad-Bhokardan,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Samson Vijay David,WOTR549,Officer,Dindori-Anuppur,A,A,A,A,A,A,OFF,A,P:A,P,A,A,OFF,OFF,P,P,P,P,A,P,OFF,A,A,A,A,A,OFF,OFF,6.5,0,0,15.5,6.0,0,0,0,0,28.0
+Sangale Satish Ashok,WOTR524,Sr.Assistant,Sangamner,P,P,A,A,A,P,OFF,P,P,P,P,P,OFF,OFF,P,P,P,P,P,P,OFF,P,P,P,P,A,OFF,OFF,18.0,0,0,4.0,6.0,0,0,0,0,28.0
+Sangeeta Singh,WOTR514,Sr.Assitant (Women's Empowerment),MP-Harrai Chhindwara,A,A,A,P,A,P,OFF,A,P,A,P,P,OFF,OFF,A,P,A,A,P,P,OFF,A,A,A,A,A,OFF,OFF,8.0,0,0,14.0,6.0,0,0,0,0,28.0
+Satpute Amol Jaysing,WOTR429,Officer-AV Docu.& Com,Pune,P,P,P,P,P,P,OFF,P,P,P,P,P,OFF,OFF,P,P,P,P,P,P,OFF,P,P,P,A,A,OFF,OFF,20.0,0,0,2.0,6.0,0,0,0,0,28.0
+Saware Lalasaheb H.,WOTR115,Driver Cum Mechanic,Ahmednagar,A,P,A,A,A,A,OFF,P,A,A,P,A,OFF,OFF,A,P,A,A,A,A,OFF,P,A,P,A,A,OFF,OFF,6.0,0,0,16.0,6.0,0,0,0,0,28.0
+Shailesh Amdekar,WOTR535,Dy. General Manager- HR & Admin.,Pune,P,P,P,A,A,P,OFF,P,P,P,P,P,OFF,OFF,P,P,P,P,P,P,OFF,P:A,P,P,P,A,OFF,OFF,18.5,0,0,3.5,6.0,0,0,0,0,28.0
+Shelke Ajay Anthony,WOTR111,Dy.General Manager,Pune,P,P,P,P,P,P,OFF,P,P,P,P,P,OFF,OFF,P,P,P,P,P,P,OFF,P,P,P,P,P,OFF,OFF,22.0,0,0,0,6.0,0,0,0,0,28.0
+Shelke Kiran Anthony,WOTR047,Dy.General Manager,Ahmednagar,P,P,P,P,P,A,OFF,P,A,P,P,P,OFF,OFF,P,P,A,P,A,P,OFF,P,P,P,P,A,OFF,OFF,17.0,0,0,5.0,6.0,0,0,0,0,28.0
+Shelke Mahesh Bhausaheb,WOTR060,Sr.Officer,Ahmednagar Bhalavani,P,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,1.0,0,0,21.0,6.0,0,0,0,0,28.0
+Shelke Sanjay Anton,WOTR379,Driver Cum Mechanic,Ahmednagar,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,P,P:A,A,OD,A,T,OFF,A,A,A,A,A,OFF,OFF,1.5,1.0,0,18.5,6.0,0,1.0,0,0,28.0
+Shelke Sudam Ashok,WOTR480,Jr.Research Assitant,Osmanabad,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Shinde Vishal Sahebrao,WOTR477,Officer-Accounts,Ahmednagar,P,P,P,P,P,P,OFF,P,P,P:A,P,P,OFF,OFF,P,A:P,P,P,P,P,OFF,A,P,P,P,P,OFF,OFF,20.0,0,0,2.0,6.0,0,0,0,0,28.0
+Shinde Yogesh Shivaji,WOTR188,Officer-Researcher,Pune,P:A,P,P,P,P,P,OFF,P:A,P,P:A,P,P,OFF,OFF,P,P,P,P,P,P:A,OFF,P:A,P,P,P,A,OFF,OFF,18.5,0,0,3.5,6.0,0,0,0,0,28.0
+Shitalkumar Sudhakar Kale,WOTR420,Jr.Officer-Accounts,Aurangabad,P,A,P,P,P,P,OFF,P,P,P,P,P,OFF,OFF,A,P,P,A,A,P,OFF,P,P,P,P,P,OFF,OFF,18.0,0,0,4.0,6.0,0,0,0,0,28.0
+Shivprakash Yadav,WOTR513,Officer Agronomist,MP-Harrai Chhindwara,A,P,A,A,A,P,OFF,A,P,A,P,A,OFF,OFF,A,P,A,P,A,A,OFF,P,A,A,A,A,OFF,OFF,7.0,0,0,15.0,6.0,0,0,0,0,28.0
+Shreya Sarthak Banerjee,WOTR439,Jr.Researcher(Economist),Pune,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Shrikant Vitthal Mukate,WOTR592,,Pune,,,,,,,,,,,,,,,,,,,,,,A,P,P,P,A,OFF,OFF,3.0,0,0,2.0,2.0,0,0,0,0,7.0
+Shrikrishna Mali,WOTR528,Officer-Social,Seoni,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,P,P,P,A,P,A,OFF,A,A,A,A,A,OFF,OFF,4.0,0,0,18.0,6.0,0,0,0,0,28.0
+Shubham Kesharwani,WOTR547,Officer Technical,Dindori-Anuppur,A,A,A,A,A,A,OFF,P,A,A,A,A,OFF,OFF,A,A,A,P,P,P,OFF,A,A,P,A,A,OFF,OFF,5.0,0,0,17.0,6.0,0,0,0,0,28.0
+Shubham Wagh,WOTR548,Agri Business Promoter,Ahmednagar Karjat,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Shyna Dudeja,WOTR494,Sr.Officer,New Delhi,P,P,P,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,P,P,OFF,P,P,P,A,A,OFF,OFF,8.0,0,0,14.0,6.0,0,0,0,0,28.0
+Siba Prasad Sahu,WOTR181,Sr. SDO,Khunti,A,A,P,P,P,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,P,A,OFF,A,A,P,A,P,OFF,OFF,6.0,0,0,16.0,6.0,0,0,0,0,28.0
+Somnath Kisan Sable,WOTR566,Sr.Assistant - Agronomist,Sangamner,A,A,A,A,P,A,OFF,A,A,A,A,P,OFF,OFF,P,A,A,A,A,A,OFF,P,A,P,A,A,OFF,OFF,5.0,0,0,17.0,6.0,0,0,0,0,28.0
+Sonawane Sandeep Dattu,WOTR349,Officer-Accounts,Pune,P,P,P:A,P,P,P,OFF,P,P,A,P,P,OFF,OFF,P,P,P,P,P,P,OFF,P,P,P,P,P,OFF,OFF,20.5,0,0,1.5,6.0,0,0,0,0,28.0
+Sooraj Prasad Sadhuram Choudhary,WOTR371,Technical Officer,Khunti,A,A,A,A,A,A,OFF,A,A,A,A,P,OFF,OFF,A,A,A,A,A,A,OFF,A,P:A,P,A,A,OFF,OFF,2.5,0,0,19.5,6.0,0,0,0,0,28.0
+Sourya Das,WOTR489,Sr.Researcher (Economics),Pune,A,A,A,A,P,A:P,OFF,P,A,P,P,A,OFF,OFF,P,P,P,P,P,A,OFF,P,P,P,P,P,OFF,OFF,14.5,0,0,7.5,6.0,0,0,0,0,28.0
+Sreemoyee Sharma,WOTR562,Dy. General Manager- Fund Raising,Pune,P,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,1.0,0,0,21.0,6.0,0,0,0,0,28.0
+Sugat Gajanan Bagde,WOTR512,Technical Officer,Pandurna Chhindwara,A,P,P,A,A,A,OFF,A,P,A,A,P,OFF,OFF,A,A,P,P,P,P,OFF,A,A,P,A,A,OFF,OFF,9.0,0,0,13.0,6.0,0,0,0,0,28.0
+Sunanda Samal,WOTR557,Asst.Manager,Pune,P,P,A,A,A,A,OFF,P,A,P,P,P,OFF,OFF,P,P,P,P,P,P,OFF,P,P,P,P,P,OFF,OFF,17.0,0,0,5.0,6.0,0,0,0,0,28.0
+Sunil Anton Shelke,WOTR563,Junior Research Assistant,Ahmednagar Bhalavani,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,P,A,A,P,A,OFF,A,A,A,A,P,OFF,OFF,3.0,0,0,19.0,6.0,0,0,0,0,28.0
+Sushma Wasnik,WOTR578,,Mumbai,A,A,A,P,P,P,OFF,A,P,A,A,A,OFF,OFF,A,P,A,A,P,A,OFF,P,A,A,P,A,OFF,OFF,8.0,0,0,14.0,6.0,0,0,0,0,28.0
+Swatantra Kumar Y Gautam,WOTR247,Sr. Tech.Officer,Pandurna Chhindwara,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,P,P,A,P,P,P,OFF,P,P,A,A,A,OFF,OFF,7.0,0,0,15.0,6.0,0,0,0,0,28.0
+Taneesha Devi Mohan,WOTR496,Sr.Researcher,Pune,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Tangirala VSB Sankar,WOTR162,Sr. Officer,Hyderabad,P,P,A,P,P,P,OFF,P,P,P,P,P,OFF,OFF,P,P,P,P,P,P,OFF,P,P,P,P,P,OFF,OFF,21.0,0,0,1.0,6.0,0,0,0,0,28.0
+Tanmay Rudhir Pisolkar,WOTR599,,Pune,,,,,,,,,P,P,P,P,,,,,,,,,OFF,A,A,A,A,P,OFF,OFF,5.0,0,0,4.0,3.0,0,0,0,0,12.0
+Tasgaonkar Premsagar Prakash,WOTR328,Sr.Officer-Researcher-Social Sci & CCA),Pune,P,P,P,P,P:A,P,OFF,P,P,P,P,A,OFF,OFF,P,P:A,P,P:A,P,P,OFF,A:P,P,P,P,P,OFF,OFF,19.0,0,0,3.0,6.0,0,0,0,0,28.0
+Thirupathaiah Mundrathi,WOTR541,Sr.Officer Technical,Hyderabad,A,A,P,A,A,A,OFF,P,A,A,A,A,OFF,OFF,P,A,A,A,P,A,OFF,A,A,P,A,A,OFF,OFF,5.0,0,0,17.0,6.0,0,0,0,0,28.0
+Thombare Pradnya Dattatrya,WOTR446,Jr.Researcher Agri,Pune,A,P,P,P,P:A,P,OFF,P:A,P,A:P,P,A:P,OFF,OFF,P,P,P,P,P,P,OFF,P,P:A,P,P,P:A,OFF,OFF,18.0,0,0,4.0,6.0,0,0,0,0,28.0
+Thorat Rajendra Nandaram,WOTR290,Officer-Tech,Aurangabad-Jamkhed,A,A,P,A,A,A,OFF,P,A,P,P,P,OFF,OFF,A,A,A,P,A,A,OFF,P,A,A,A,A,OFF,OFF,7.0,0,0,15.0,6.0,0,0,0,0,28.0
+Tiwatne Narendra Mukund,WOTR351,Field Officer Agriculture,Aurangabad-Bhokardan,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Tupere Suhas Ashok,WOTR395,Technical Officer,Aurangabad-Jamkhed,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Udaya Narayan,WOTR522,Officer -Social,Jabalpur,A,A,A,A,A,A,OFF,A,P,A,A,A,OFF,OFF,A,A,P,A,A,P,OFF,P,A,P,P,A,OFF,OFF,6.0,0,0,16.0,6.0,0,0,0,0,28.0
+Ughade Bibishan Eknathrao,WOTR182,Sr.Tech Officer,Aurangabad-Bhokardan,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Ujjval Ashok Kumar Pamnani,WOTR464,Manager (Product Dev & Data Sci),Pune,A,A,A,A,A,A,OFF,A,A,A,P,P,OFF,OFF,P,P,P,P,P,P,OFF,P,P,P,P,A,OFF,OFF,12.0,0,0,10.0,6.0,0,0,0,0,28.0
+Upasana Rajan Koli,WOTR437,Jr.Researcher(Economist),Pune,A,A,A,A,P:A,A,OFF,A,A,A,A,P,OFF,OFF,P,P,A:P,P,P,A:P,OFF,A:P,P,P,A,A,OFF,OFF,9.0,0,0,13.0,6.0,0,0,0,0,28.0
+Urunkar Vinayak Bhagwat,WOTR045,Officer - IT,Ahmednagar,A,A,A,A,P:A,A,OFF,P,P,P,P,P,OFF,OFF,P,A,A,P,P,A,OFF,A,A,A,A,P,OFF,OFF,9.5,0,0,12.5,6.0,0,0,0,0,28.0
+Vaidya Umesh Gangadharrao,WOTR470,Officer-Social,Aurangabad-Ambad,A,A,A,A,P:A,A,OFF,P,A,A,A,A,OFF,OFF,A,A,A,A,P,A,OFF,P,A,A,A,A,OFF,OFF,3.5,0,0,18.5,6.0,0,0,0,0,28.0
+Vijay Solanky,WOTR488,Jr.Researcher (GIS),Pune,P,P,P,P,P,P,OFF,P,P,P,P,P:A,OFF,OFF,P,P,P,P,P,P,OFF,P,P,P,P,A,OFF,OFF,20.5,0,0,1.5,6.0,0,0,0,0,28.0
+Vimlesh Kumar,WOTR605,,Jharkhand Giridih,,,,,,,,,,,,,,,,,,,,,OFF,A,P,A,A,A,OFF,OFF,1.0,0,0,4.0,3.0,0,0,0,0,8.0
+Vinay Kumar Niranjan Pathak,WOTR588,Livelihood & Agriculture Assistant,Jharkhand Giridih,,,,,,,,,,,,,,,,,,,,,OFF,A,P,A,A,A,OFF,OFF,1.0,0,0,4.0,3.0,0,0,0,0,8.0
+Vinay Sham Pagade,WOTR526,Officer-Social,Raigad,A,A,A,A,A,A,OFF,A,A,A,P,P,OFF,OFF,A:P,P,P,P,A:P,P,OFF,P,P,P,A,A,OFF,OFF,10.0,0,0,12.0,6.0,0,0,0,0,28.0
+Virendra Kumar Amarnath Dubey,WOTR326,Officer Agronomist,Dindori-Anuppur,A,P,A,A,A,A,OFF,A,A,P,A,P,OFF,OFF,A,P,P,A,P,A,OFF,A,P,P,A,A,OFF,OFF,8.0,0,0,14.0,6.0,0,0,0,0,28.0
+Wadekar Kakasaheb Uttamrao,WOTR297,Sr. Assisant (Community Organiser),Aurangabad-Bhokardan,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Waghunde Ganga Subhash,WOTR482,Sr.Assistant,Aurangabad-Ambad,A,A,A,A,A,A,OFF,A,A,A,A,P,OFF,OFF,A,A,A,A,A,A,OFF,P,A,A,A,A,OFF,OFF,2.0,0,0,20.0,6.0,0,0,0,0,28.0
+Walunj Pavan Namdev,WOTR565,,Sangamner,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Wandhekar Anil Dhanaji,WOTR325,Sr.Assistant - Agronomist,Aurangabad-Jafrabad,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Wani Ananda Ganpat,WOTR090,Agriculture Expert,Pune,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,A,A,A,A,A,A,OFF,A,A,A,A,A,OFF,OFF,0,0,0,22.0,6.0,0,0,0,0,28.0
+Yadav Ankita Ramesh,WOTR354,Sr.Officer,Pune,P,P,P:A,P,P,P,OFF,P,P,P,P,P,OFF,OFF,P,P,A:P,P,P,P,OFF,A,A,A,A,P:A,OFF,OFF,16.5,0,0,5.5,6.0,0,0,0,0,28.0
+Zade Dipak,WOTR097,Dy.Manager (KM),Pune,P,P,P,P,P,P,OFF,P:A,P,A:P,P,P:A,OFF,OFF,P,P,P:A,P,P,P:A,OFF,P:A,P:A,P:A,P,P:A,OFF,OFF,17.5,0,0,4.5,6.0,0,0,0,0,28.0

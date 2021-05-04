@@ -1,0 +1,10 @@
+.logo{
+	margin : 0 auto;
+}
+.profile-element img {
+     max-height: 80px; 
+     max-width: 80px; 
+}
+.stretch{
+    margin: 0px -10px 0px -10px;
+}
